@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yeshu-lang.github.io/sitemap.xml
