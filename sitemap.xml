@@ -43,4 +43,10 @@
      <priority>0.8</priority>
    </url>
   
+   <url>
+     <loc>https://yeshu-lang.github.io/moral-struggle.html</loc>
+     <changefreq>monthly</changefreq>
+     <priority>0.8</priority>
+   </url>
+  
 </urlset>
